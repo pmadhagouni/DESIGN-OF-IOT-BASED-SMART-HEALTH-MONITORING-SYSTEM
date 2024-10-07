@@ -19,3 +19,10 @@ Algorithms.
 ## **Block Diagram**
 ![image](https://github.com/user-attachments/assets/c617c74d-6a76-4cfb-b0d7-49865623c3b1)
 
+## **Conclusion**
+The real time wireless health care monitoring system is described in this project as a result of
+the pursued research effort. This Real Time Health Care Monitoring System prototype was
+created and manufactured to wirelessly monitor people's health at any time and take
+preventative steps to avert death or disease. Wearable technology is used in this system so that
+individuals may feel comfortable without having to add anything to their regular attire that
+might make them feel self-conscious.
