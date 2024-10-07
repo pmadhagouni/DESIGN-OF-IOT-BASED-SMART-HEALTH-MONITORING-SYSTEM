@@ -9,8 +9,8 @@ The derived values are subsequently sent to the base station through the cloud.
 
 ## "Objectives"
 . To foster constant Health checking framework.
-. To examine the patients' real-time data.
-. Decreases the intricacy because of the wires.
+* To examine the patients' real-time data.
++ Decreases the intricacy because of the wires.
 . Specialists focus on patients and give pressing consideration who are in the most peril in
 this manner saving lives.
 . To break down and foresee soundness of the patients by means of Machine Learning
