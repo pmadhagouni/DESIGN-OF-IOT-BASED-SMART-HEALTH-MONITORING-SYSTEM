@@ -15,3 +15,7 @@ The derived values are subsequently sent to the base station through the cloud.
 this manner saving lives.
 * To break down and foresee soundness of the patients by means of Machine Learning
 Algorithms.
+
+## **Block Diagram**
+![image](https://github.com/user-attachments/assets/c617c74d-6a76-4cfb-b0d7-49865623c3b1)
+
